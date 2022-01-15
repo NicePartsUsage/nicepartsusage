@@ -28,6 +28,7 @@ url: "nicepartsusage.github.io" # the base hostname & protocol for your site, e.
 github_username:  NicePartsUsage
 repository: NicePartsUsage/nicepartsusage.github.io
 google_analytics: G-QBM3Q3LPNH
+future: false
 
 # Build settings
 theme: jekyll-theme-cayman
